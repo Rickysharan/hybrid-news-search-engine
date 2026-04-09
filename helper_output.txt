@@ -1,0 +1,797 @@
+Loading cross-encoder model: cross-encoder/ms-marco-MiniLM-L-6-v2
+Importing torch and transformers...
+Loading tokenizer for cross-encoder/ms-marco-MiniLM-L-6-v2...
+Loading model weights for cross-encoder/ms-marco-MiniLM-L-6-v2...
+Model ready on device: mps
+
+================================================================================
+q1: UK general election 2025
+================================================================================
+
+BM25F top results:
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=24  | rank=4  | score=2.6366 | California Could Elect a Republican Governor Thanks to the ‘Jungle Primary’
+doc_id=21  | rank=5  | score=1.8612 | The Supreme Court Could Make it Harder to Vote by Mail in the Midterms
+doc_id=22  | rank=6  | score=1.4530 | How the Supreme Court Could Change Voting by Mail
+
+Hybrid top results:
+Running BM25F candidate reranking for 6 documents
+Scoring batch 1-6 of 6
+BERT cut top 6 → top 6 candidates
+doc_id=0   | rank=1  | final=0.7711 | No assessment Iran could strike London, UK minister says
+doc_id=21  | rank=2  | final=0.4520 | The Supreme Court Could Make it Harder to Vote by Mail in the Midterms
+doc_id=24  | rank=3  | final=0.4446 | California Could Elect a Republican Governor Thanks to the ‘Jungle Primary’
+doc_id=4   | rank=4  | final=0.4123 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=5  | final=0.3926 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=22  | rank=6  | final=0.2227 | How the Supreme Court Could Change Voting by Mail
+
+================================================================================
+q2: Keir Starmer immigration policy
+================================================================================
+
+BM25F top results:
+doc_id=19  | rank=1  | score=3.8513 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=20  | rank=2  | score=3.3068 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+
+Hybrid top results:
+Running BM25F candidate reranking for 2 documents
+Scoring batch 1-2 of 2
+BERT cut top 2 → top 2 candidates
+doc_id=19  | rank=1  | final=0.7687 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=20  | rank=2  | final=0.1686 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+
+================================================================================
+q3: Labour Party housing policy
+================================================================================
+
+BM25F top results:
+doc_id=20  | rank=1  | score=3.3068 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=27  | rank=2  | score=2.7563 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+doc_id=19  | rank=3  | score=2.6674 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+
+Hybrid top results:
+Running BM25F candidate reranking for 3 documents
+Scoring batch 1-3 of 3
+BERT cut top 3 → top 3 candidates
+doc_id=20  | rank=1  | final=0.6084 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=19  | rank=2  | final=0.4187 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=27  | rank=3  | final=0.2177 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+
+================================================================================
+q4: UK Rwanda asylum plan
+================================================================================
+
+BM25F top results:
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+Hybrid top results:
+Running BM25F candidate reranking for 3 documents
+Scoring batch 1-3 of 3
+BERT cut top 3 → top 3 candidates
+doc_id=0   | rank=1  | final=0.7711 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | final=0.2366 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | final=0.1777 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+================================================================================
+q5: NATO Russia Ukraine tensions
+================================================================================
+
+BM25F top results:
+doc_id=23  | rank=1  | score=3.6609 | Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=23  | rank=1  | final=0.7697 | Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions
+
+================================================================================
+q6: Donald Trump executive orders
+================================================================================
+
+BM25F top results:
+doc_id=17  | rank=1  | score=4.5532 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=25  | rank=2  | score=2.6411 | Don Lemon on Trump, Minnesota and Streaming on YouTube
+doc_id=10  | rank=3  | score=2.5766 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=15  | rank=4  | score=2.5093 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=28  | rank=5  | score=2.2173 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=18  | rank=6  | score=2.1147 | ICE to Help TSA at Airports Amid Partial Shutdown, Trump’s Border Czar Says
+doc_id=19  | rank=7  | score=1.3759 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+
+Hybrid top results:
+Running BM25F candidate reranking for 7 documents
+Scoring batch 1-7 of 7
+BERT cut top 7 → top 7 candidates
+doc_id=17  | rank=1  | final=0.5212 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=19  | rank=2  | final=0.4187 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=15  | rank=3  | final=0.3577 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=10  | rank=4  | final=0.3206 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=25  | rank=5  | final=0.3152 | Don Lemon on Trump, Minnesota and Streaming on YouTube
+doc_id=18  | rank=6  | final=0.3098 | ICE to Help TSA at Airports Amid Partial Shutdown, Trump’s Border Czar Says
+doc_id=28  | rank=7  | final=0.2774 | Trump Has Made a Fundamental Miscalculation about Iran
+
+================================================================================
+q7: Gaza ceasefire negotiations
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q8: UK House of Lords reform
+================================================================================
+
+BM25F top results:
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=19  | rank=3  | score=2.6674 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+Hybrid top results:
+Running BM25F candidate reranking for 4 documents
+Scoring batch 1-4 of 4
+BERT cut top 4 → top 4 candidates
+doc_id=0   | rank=1  | final=0.7711 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | final=0.2366 | What did critics think of Saturday Night Live UK's debut?
+doc_id=19  | rank=3  | final=0.2343 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=14  | rank=4  | final=0.1983 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+================================================================================
+q9: Scotland independence referendum
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q10: US China trade war tariffs
+================================================================================
+
+BM25F top results:
+doc_id=12  | rank=1  | score=5.4261 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=10  | rank=2  | score=4.8259 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=28  | rank=3  | score=2.4833 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=4   | rank=4  | score=2.2901 | What did critics think of Saturday Night Live UK's debut?
+doc_id=16  | rank=5  | score=1.9022 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=15  | rank=6  | score=1.6861 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+
+Hybrid top results:
+Running BM25F candidate reranking for 6 documents
+Scoring batch 1-6 of 6
+BERT cut top 6 → top 6 candidates
+doc_id=10  | rank=1  | final=0.6063 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=12  | rank=2  | final=0.5356 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=28  | rank=3  | final=0.4628 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=16  | rank=4  | final=0.4401 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=4   | rank=5  | final=0.2274 | What did critics think of Saturday Night Live UK's debut?
+doc_id=15  | rank=6  | final=0.1968 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+
+================================================================================
+q11: UK interest rate decision
+================================================================================
+
+BM25F top results:
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+Hybrid top results:
+Running BM25F candidate reranking for 3 documents
+Scoring batch 1-3 of 3
+BERT cut top 3 → top 3 candidates
+doc_id=0   | rank=1  | final=0.7711 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | final=0.2366 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | final=0.1691 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+================================================================================
+q12: Bank of England inflation forecast
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q13: UK budget spending cuts 2025
+================================================================================
+
+BM25F top results:
+doc_id=16  | rank=1  | score=6.1243 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=0   | rank=2  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=3  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+Hybrid top results:
+Running BM25F candidate reranking for 4 documents
+Scoring batch 1-4 of 4
+BERT cut top 4 → top 4 candidates
+doc_id=16  | rank=1  | final=0.7698 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=0   | rank=2  | final=0.3109 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=3  | final=0.1847 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=4  | final=0.1842 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+================================================================================
+q14: IMF global growth forecast
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q15: UK unemployment rate 2025
+================================================================================
+
+BM25F top results:
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+Hybrid top results:
+Running BM25F candidate reranking for 3 documents
+Scoring batch 1-3 of 3
+BERT cut top 3 → top 3 candidates
+doc_id=0   | rank=1  | final=0.7711 | No assessment Iran could strike London, UK minister says
+doc_id=14  | rank=2  | final=0.2576 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=4   | rank=3  | final=0.2366 | What did critics think of Saturday Night Live UK's debut?
+
+================================================================================
+q16: oil price OPEC decision
+================================================================================
+
+BM25F top results:
+doc_id=1   | rank=1  | score=6.9587 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=16  | rank=2  | score=3.7406 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+
+Hybrid top results:
+Running BM25F candidate reranking for 2 documents
+Scoring batch 1-2 of 2
+BERT cut top 2 → top 2 candidates
+doc_id=1   | rank=1  | final=0.7704 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=16  | rank=2  | final=0.1698 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+
+================================================================================
+q17: UK cost of living crisis
+================================================================================
+
+BM25F top results:
+doc_id=4   | rank=1  | score=6.6251 | What did critics think of Saturday Night Live UK's debut?
+doc_id=0   | rank=2  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=1   | rank=3  | score=2.6434 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=16  | rank=5  | score=2.5456 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+
+Hybrid top results:
+Running BM25F candidate reranking for 5 documents
+Scoring batch 1-5 of 5
+BERT cut top 5 → top 5 candidates
+doc_id=4   | rank=1  | final=0.5209 | What did critics think of Saturday Night Live UK's debut?
+doc_id=1   | rank=2  | final=0.4288 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=0   | rank=3  | final=0.2663 | No assessment Iran could strike London, UK minister says
+doc_id=14  | rank=4  | final=0.1765 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=16  | rank=5  | final=0.1712 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+
+================================================================================
+q18: Federal Reserve interest rate cut
+================================================================================
+
+BM25F top results:
+doc_id=20  | rank=1  | score=3.3068 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=16  | rank=2  | score=3.0621 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+
+Hybrid top results:
+Running BM25F candidate reranking for 2 documents
+Scoring batch 1-2 of 2
+BERT cut top 2 → top 2 candidates
+doc_id=20  | rank=1  | final=0.5186 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=16  | rank=2  | final=0.4198 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+
+================================================================================
+q19: UK trade deal post Brexit
+================================================================================
+
+BM25F top results:
+doc_id=19  | rank=1  | score=3.8513 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=0   | rank=2  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=3  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=5   | rank=5  | score=2.5059 | Jorginho's criticism of Chappell Roan over daughter's tears goes viral
+
+Hybrid top results:
+Running BM25F candidate reranking for 5 documents
+Scoring batch 1-5 of 5
+BERT cut top 5 → top 5 candidates
+doc_id=0   | rank=1  | final=0.6454 | No assessment Iran could strike London, UK minister says
+doc_id=19  | rank=2  | final=0.5763 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=4   | rank=3  | final=0.2406 | What did critics think of Saturday Night Live UK's debut?
+doc_id=5   | rank=4  | final=0.2315 | Jorginho's criticism of Chappell Roan over daughter's tears goes viral
+doc_id=14  | rank=5  | final=0.2061 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+================================================================================
+q20: Elon Musk DOGE government spending
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q21: AI regulation global policies
+================================================================================
+
+BM25F top results:
+doc_id=20  | rank=1  | score=3.3068 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=20  | rank=1  | final=0.7686 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+
+================================================================================
+q22: Impact of generative AI on jobs
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q23: Cybersecurity attacks trends 2026
+================================================================================
+
+BM25F top results:
+doc_id=12  | rank=1  | score=3.6609 | Why did US and Israel attack Iran and how long could the war last?
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=12  | rank=1  | final=0.7698 | Why did US and Israel attack Iran and how long could the war last?
+
+================================================================================
+q24: Apple vs Android market share
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q25: Future of 5G and 6G networks
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q26: Data privacy laws EU vs US
+================================================================================
+
+BM25F top results:
+doc_id=6   | rank=1  | score=5.2348 | Hillsborough campaigners blame Mahmood for law delay
+doc_id=12  | rank=2  | score=3.3358 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=10  | rank=3  | score=2.7738 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=4   | rank=4  | score=2.2901 | What did critics think of Saturday Night Live UK's debut?
+
+Hybrid top results:
+Running BM25F candidate reranking for 4 documents
+Scoring batch 1-4 of 4
+BERT cut top 4 → top 4 candidates
+doc_id=6   | rank=1  | final=0.7710 | Hillsborough campaigners blame Mahmood for law delay
+doc_id=12  | rank=2  | final=0.3311 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=10  | rank=3  | final=0.3104 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=4   | rank=4  | final=0.1709 | What did critics think of Saturday Night Live UK's debut?
+
+================================================================================
+q27: Electric vehicle battery innovation
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q28: Mental health crisis among youth
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q29: Obesity rates global statistics
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q30: COVID-19 new variants update
+================================================================================
+
+BM25F top results:
+doc_id=27  | rank=1  | score=4.0627 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=27  | rank=1  | final=0.7691 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+
+================================================================================
+q31: Cancer treatment breakthroughs 2026
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q32: NHS waiting times crisis UK
+================================================================================
+
+BM25F top results:
+doc_id=8   | rank=1  | score=3.8513 | National blackout hits Cuba for second time in a week
+doc_id=0   | rank=2  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=3  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+
+Hybrid top results:
+Running BM25F candidate reranking for 4 documents
+Scoring batch 1-4 of 4
+BERT cut top 4 → top 4 candidates
+doc_id=8   | rank=1  | final=0.6676 | National blackout hits Cuba for second time in a week
+doc_id=0   | rank=2  | final=0.6319 | No assessment Iran could strike London, UK minister says
+doc_id=14  | rank=3  | final=0.2592 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=4   | rank=4  | final=0.2104 | What did critics think of Saturday Night Live UK's debut?
+
+================================================================================
+q33: Benefits of intermittent fasting
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q34: Rise of telemedicine services
+================================================================================
+
+BM25F top results:
+doc_id=1   | rank=1  | score=4.4179 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=1   | rank=1  | final=0.7704 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+
+================================================================================
+q35: Olympic Games 2028 preparation
+================================================================================
+
+BM25F top results:
+doc_id=23  | rank=1  | score=3.6609 | Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=23  | rank=1  | final=0.7697 | Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions
+
+================================================================================
+q36: FIFA World Cup 2026 host cities
+================================================================================
+
+BM25F top results:
+doc_id=27  | rank=1  | score=2.7563 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=27  | rank=1  | final=0.7691 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+
+================================================================================
+q37: Premier League title race predictions
+================================================================================
+
+BM25F top results:
+doc_id=7   | rank=1  | score=6.1243 | Newcastle-Sunderland paused after reported racism towards Geertruida
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=7   | rank=1  | final=0.7711 | Newcastle-Sunderland paused after reported racism towards Geertruida
+
+================================================================================
+q38: VAR controversy in football
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q39: Highest paid athletes 2026
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q40: Women's sports popularity growth
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q41: Global trade agreements
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q42: Impact of economic sanctions on countries
+================================================================================
+
+BM25F top results:
+doc_id=11  | rank=1  | score=3.4444 | Iranian missiles injure 180 in towns near Israeli nuclear site
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=11  | rank=1  | final=0.7711 | Iranian missiles injure 180 in towns near Israeli nuclear site
+
+================================================================================
+q43: United Nations peacekeeping missions
+================================================================================
+
+BM25F top results:
+doc_id=8   | rank=1  | score=2.7738 | National blackout hits Cuba for second time in a week
+doc_id=21  | rank=2  | score=1.8612 | The Supreme Court Could Make it Harder to Vote by Mail in the Midterms
+doc_id=22  | rank=3  | score=1.4530 | How the Supreme Court Could Change Voting by Mail
+
+Hybrid top results:
+Running BM25F candidate reranking for 3 documents
+Scoring batch 1-3 of 3
+BERT cut top 3 → top 3 candidates
+doc_id=8   | rank=1  | final=0.7710 | National blackout hits Cuba for second time in a week
+doc_id=21  | rank=2  | final=0.4493 | The Supreme Court Could Make it Harder to Vote by Mail in the Midterms
+doc_id=22  | rank=3  | final=0.1698 | How the Supreme Court Could Change Voting by Mail
+
+================================================================================
+q44: Causes of geopolitical conflicts in the Middle East
+================================================================================
+
+BM25F top results:
+doc_id=12  | rank=1  | score=8.8587 | Why did US and Israel attack Iran and how long could the war last?
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=12  | rank=1  | final=0.7698 | Why did US and Israel attack Iran and how long could the war last?
+
+================================================================================
+q45: China Belt and Road Initiative overview
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q46: How does inflation affect everyday life
+================================================================================
+
+BM25F top results:
+doc_id=22  | rank=1  | score=2.0174 | How the Supreme Court Could Change Voting by Mail
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=22  | rank=1  | final=0.7698 | How the Supreme Court Could Change Voting by Mail
+
+================================================================================
+q47: Benefits of renewable energy sources
+================================================================================
+
+BM25F top results:
+doc_id=3   | rank=1  | score=3.6609 | 'We cannot be in peace', say Guthrie family as they renew appeal over missing mother
+doc_id=1   | rank=2  | score=3.0563 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+
+Hybrid top results:
+Running BM25F candidate reranking for 2 documents
+Scoring batch 1-2 of 2
+BERT cut top 2 → top 2 candidates
+doc_id=3   | rank=1  | final=0.7707 | 'We cannot be in peace', say Guthrie family as they renew appeal over missing mother
+doc_id=1   | rank=2  | final=0.1704 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+
+================================================================================
+q48: What causes economic recessions
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q49: How do vaccines work in the human body
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q50: Impact of social media on mental health
+================================================================================
+
+BM25F top results:
+doc_id=5   | rank=1  | score=5.0119 | Jorginho's criticism of Chappell Roan over daughter's tears goes viral
+
+Hybrid top results:
+Running BM25F candidate reranking for 1 documents
+Scoring batch 1-1 of 1
+BERT cut top 1 → top 1 candidates
+doc_id=5   | rank=1  | final=0.7707 | Jorginho's criticism of Chappell Roan over daughter's tears goes viral
+
+================================================================================
+q51: Russia Ukraine war updates
+================================================================================
+
+BM25F top results:
+doc_id=28  | rank=1  | score=2.4833 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=12  | rank=2  | score=2.0903 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=10  | rank=3  | score=2.0521 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=16  | rank=4  | score=1.9022 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=15  | rank=5  | score=1.6861 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+
+Hybrid top results:
+Running BM25F candidate reranking for 5 documents
+Scoring batch 1-5 of 5
+BERT cut top 5 → top 5 candidates
+doc_id=10  | rank=1  | final=0.5793 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=28  | rank=2  | final=0.5194 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=12  | rank=3  | final=0.4403 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=15  | rank=4  | final=0.3544 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=16  | rank=5  | final=0.3424 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+
+================================================================================
+q52: Israel Gaza conflict timeline
+================================================================================
+
+BM25F top results:
+doc_id=12  | rank=1  | score=5.5975 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=17  | rank=2  | score=2.8733 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=11  | rank=3  | score=1.9667 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=13  | rank=4  | score=1.8881 | 'A direct hit' - BBC visits Israeli town after Iranian strike
+doc_id=0   | rank=5  | score=1.7484 | No assessment Iran could strike London, UK minister says
+
+Hybrid top results:
+Running BM25F candidate reranking for 5 documents
+Scoring batch 1-5 of 5
+BERT cut top 5 → top 5 candidates
+doc_id=12  | rank=1  | final=0.7698 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=17  | rank=2  | final=0.3047 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=11  | rank=3  | final=0.2047 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=13  | rank=4  | final=0.1894 | 'A direct hit' - BBC visits Israeli town after Iranian strike
+doc_id=0   | rank=5  | final=0.1711 | No assessment Iran could strike London, UK minister says
+
+================================================================================
+q53: Hamas Israel war casualties
+================================================================================
+
+BM25F top results:
+doc_id=12  | rank=1  | score=4.7349 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=17  | rank=2  | score=2.8733 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=28  | rank=3  | score=2.4833 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=10  | rank=4  | score=2.0521 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=11  | rank=5  | score=1.9667 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=16  | rank=6  | score=1.9022 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=13  | rank=7  | score=1.8881 | 'A direct hit' - BBC visits Israeli town after Iranian strike
+doc_id=0   | rank=8  | score=1.7484 | No assessment Iran could strike London, UK minister says
+doc_id=15  | rank=9  | score=1.6861 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+
+Hybrid top results:
+Running BM25F candidate reranking for 9 documents
+Scoring batch 1-8 of 9
+Scoring batch 9-9 of 9
+BERT cut top 9 → top 9 candidates
+doc_id=12  | rank=1  | final=0.5875 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=17  | rank=2  | final=0.5575 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=11  | rank=3  | final=0.3168 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=28  | rank=4  | final=0.2612 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=13  | rank=5  | final=0.2152 | 'A direct hit' - BBC visits Israeli town after Iranian strike
+doc_id=10  | rank=6  | final=0.2107 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=16  | rank=7  | final=0.1949 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=0   | rank=8  | final=0.1839 | No assessment Iran could strike London, UK minister says
+doc_id=15  | rank=9  | final=0.1707 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+
+================================================================================
+q54: Ukraine military aid countries
+================================================================================
+
+BM25F top results:
+doc_id=17  | rank=1  | score=3.8513 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=11  | rank=2  | score=3.4444 | Iranian missiles injure 180 in towns near Israeli nuclear site
+
+Hybrid top results:
+Running BM25F candidate reranking for 2 documents
+Scoring batch 1-2 of 2
+BERT cut top 2 → top 2 candidates
+doc_id=17  | rank=1  | final=0.7712 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=11  | rank=2  | final=0.1711 | Iranian missiles injure 180 in towns near Israeli nuclear site
+
+================================================================================
+q55: NATO response to Russia invasion
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q56: Gaza humanitarian crisis statistics
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q57: Sanctions on Russia economy
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:
+
+================================================================================
+q58: Iran proxy groups Middle East
+================================================================================
+
+BM25F top results:
+doc_id=12  | rank=1  | score=8.2949 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=15  | rank=2  | score=2.5093 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=0   | rank=3  | score=2.4121 | No assessment Iran could strike London, UK minister says
+doc_id=28  | rank=4  | score=2.2173 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=10  | rank=5  | score=1.9866 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=16  | rank=6  | score=1.7184 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+
+Hybrid top results:
+Running BM25F candidate reranking for 6 documents
+Scoring batch 1-6 of 6
+BERT cut top 6 → top 6 candidates
+doc_id=12  | rank=1  | final=0.7698 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=0   | rank=2  | final=0.2156 | No assessment Iran could strike London, UK minister says
+doc_id=15  | rank=3  | final=0.2152 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=28  | rank=4  | final=0.2008 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=10  | rank=5  | final=0.1866 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=16  | rank=6  | final=0.1698 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+
+================================================================================
+q59: Ceasefire negotiations Gaza
+================================================================================
+
+BM25F top results:
+
+Hybrid top results:

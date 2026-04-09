@@ -1,0 +1,59 @@
+q1	UK general election 2025
+q2	Keir Starmer immigration policy
+q3	Labour Party housing policy
+q4	UK Rwanda asylum plan
+q5	NATO Russia Ukraine tensions
+q6	Donald Trump executive orders
+q7	Gaza ceasefire negotiations
+q8	UK House of Lords reform
+q9	Scotland independence referendum
+q10	US China trade war tariffs
+q11	UK interest rate decision
+q12	Bank of England inflation forecast
+q13	UK budget spending cuts 2025
+q14	IMF global growth forecast
+q15	UK unemployment rate 2025
+q16	oil price OPEC decision
+q17	UK cost of living crisis
+q18	Federal Reserve interest rate cut
+q19	UK trade deal post Brexit
+q20	Elon Musk DOGE government spending
+q21	AI regulation global policies
+q22	Impact of generative AI on jobs
+q23	Cybersecurity attacks trends 2026
+q24	Apple vs Android market share
+q25	Future of 5G and 6G networks
+q26	Data privacy laws EU vs US
+q27	Electric vehicle battery innovation
+q28	Mental health crisis among youth
+q29	Obesity rates global statistics
+q30	COVID-19 new variants update
+q31	Cancer treatment breakthroughs 2026
+q32	NHS waiting times crisis UK
+q33	Benefits of intermittent fasting
+q34	Rise of telemedicine services
+q35	Olympic Games 2028 preparation
+q36	FIFA World Cup 2026 host cities
+q37	Premier League title race predictions
+q38	VAR controversy in football
+q39	Highest paid athletes 2026
+q40	Women's sports popularity growth
+q41	Global trade agreements
+q42	Impact of economic sanctions on countries
+q43	United Nations peacekeeping missions
+q44	Causes of geopolitical conflicts in the Middle East
+q45	China Belt and Road Initiative overview
+q46	How does inflation affect everyday life
+q47	Benefits of renewable energy sources
+q48	What causes economic recessions
+q49	How do vaccines work in the human body
+q50	Impact of social media on mental health
+q51	Russia Ukraine war updates
+q52	Israel Gaza conflict timeline
+q53	Hamas Israel war casualties
+q54	Ukraine military aid countries
+q55	NATO response to Russia invasion
+q56	Gaza humanitarian crisis statistics
+q57	Sanctions on Russia economy
+q58	Iran proxy groups Middle East
+q59	Ceasefire negotiations Gaza

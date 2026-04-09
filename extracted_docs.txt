@@ -1,0 +1,143 @@
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=24  | rank=4  | score=2.6366 | California Could Elect a Republican Governor Thanks to the ‘Jungle Primary’
+doc_id=21  | rank=5  | score=1.8612 | The Supreme Court Could Make it Harder to Vote by Mail in the Midterms
+doc_id=22  | rank=6  | score=1.4530 | How the Supreme Court Could Change Voting by Mail
+doc_id=19  | rank=1  | score=3.8513 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=20  | rank=2  | score=3.3068 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=19  | rank=1  | final=0.7687 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=20  | rank=2  | final=0.1686 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=20  | rank=1  | score=3.3068 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=27  | rank=2  | score=2.7563 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+doc_id=19  | rank=3  | score=2.6674 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=20  | rank=1  | final=0.6084 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=19  | rank=2  | final=0.4187 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=0   | rank=1  | final=0.7711 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | final=0.2366 | What did critics think of Saturday Night Live UK's debut?
+doc_id=23  | rank=1  | score=3.6609 | Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions
+doc_id=23  | rank=1  | final=0.7697 | Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions
+doc_id=17  | rank=1  | score=4.5532 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=25  | rank=2  | score=2.6411 | Don Lemon on Trump, Minnesota and Streaming on YouTube
+doc_id=10  | rank=3  | score=2.5766 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=15  | rank=4  | score=2.5093 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=28  | rank=5  | score=2.2173 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=18  | rank=6  | score=2.1147 | ICE to Help TSA at Airports Amid Partial Shutdown, Trump’s Border Czar Says
+doc_id=19  | rank=7  | score=1.3759 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=19  | rank=3  | score=2.6674 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=0   | rank=1  | final=0.7711 | No assessment Iran could strike London, UK minister says
+doc_id=12  | rank=1  | score=5.4261 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=10  | rank=2  | score=4.8259 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=28  | rank=3  | score=2.4833 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=4   | rank=4  | score=2.2901 | What did critics think of Saturday Night Live UK's debut?
+doc_id=16  | rank=5  | score=1.9022 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=15  | rank=6  | score=1.6861 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=0   | rank=1  | final=0.7711 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | final=0.2366 | What did critics think of Saturday Night Live UK's debut?
+doc_id=16  | rank=1  | score=6.1243 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=0   | rank=2  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=3  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=16  | rank=1  | final=0.7698 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=0   | rank=1  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=2  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=3  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=0   | rank=1  | final=0.7711 | No assessment Iran could strike London, UK minister says
+doc_id=14  | rank=2  | final=0.2576 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=1   | rank=1  | score=6.9587 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=16  | rank=2  | score=3.7406 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=1   | rank=1  | final=0.7704 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=16  | rank=2  | final=0.1698 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=4   | rank=1  | score=6.6251 | What did critics think of Saturday Night Live UK's debut?
+doc_id=0   | rank=2  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=1   | rank=3  | score=2.6434 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=16  | rank=5  | score=2.5456 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=20  | rank=1  | score=3.3068 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=16  | rank=2  | score=3.0621 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=20  | rank=1  | final=0.5186 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=16  | rank=2  | final=0.4198 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=19  | rank=1  | score=3.8513 | Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown
+doc_id=0   | rank=2  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=3  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=5   | rank=5  | score=2.5059 | Jorginho's criticism of Chappell Roan over daughter's tears goes viral
+doc_id=20  | rank=1  | score=3.3068 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=20  | rank=1  | final=0.7686 | News Outlets Pressure Pentagon to Restore Access After Court Ruling
+doc_id=12  | rank=1  | score=3.6609 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=12  | rank=1  | final=0.7698 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=6   | rank=1  | score=5.2348 | Hillsborough campaigners blame Mahmood for law delay
+doc_id=12  | rank=2  | score=3.3358 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=10  | rank=3  | score=2.7738 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=4   | rank=4  | score=2.2901 | What did critics think of Saturday Night Live UK's debut?
+doc_id=6   | rank=1  | final=0.7710 | Hillsborough campaigners blame Mahmood for law delay
+doc_id=27  | rank=1  | score=4.0627 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+doc_id=27  | rank=1  | final=0.7691 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+doc_id=8   | rank=1  | score=3.8513 | National blackout hits Cuba for second time in a week
+doc_id=0   | rank=2  | score=3.3680 | No assessment Iran could strike London, UK minister says
+doc_id=4   | rank=3  | score=2.7738 | What did critics think of Saturday Night Live UK's debut?
+doc_id=14  | rank=4  | score=2.6366 | Sombr stopped a show over safety - but are concerts in the UK really that risky?
+doc_id=8   | rank=1  | final=0.6676 | National blackout hits Cuba for second time in a week
+doc_id=1   | rank=1  | score=4.4179 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=1   | rank=1  | final=0.7704 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=23  | rank=1  | score=3.6609 | Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions
+doc_id=23  | rank=1  | final=0.7697 | Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions
+doc_id=27  | rank=1  | score=2.7563 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+doc_id=27  | rank=1  | final=0.7691 | France Is Voting for Thousands of New Mayors. Here’s Why It Matters.
+doc_id=7   | rank=1  | score=6.1243 | Newcastle-Sunderland paused after reported racism towards Geertruida
+doc_id=7   | rank=1  | final=0.7711 | Newcastle-Sunderland paused after reported racism towards Geertruida
+doc_id=11  | rank=1  | score=3.4444 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=11  | rank=1  | final=0.7711 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=8   | rank=1  | score=2.7738 | National blackout hits Cuba for second time in a week
+doc_id=21  | rank=2  | score=1.8612 | The Supreme Court Could Make it Harder to Vote by Mail in the Midterms
+doc_id=22  | rank=3  | score=1.4530 | How the Supreme Court Could Change Voting by Mail
+doc_id=8   | rank=1  | final=0.7710 | National blackout hits Cuba for second time in a week
+doc_id=21  | rank=2  | final=0.4493 | The Supreme Court Could Make it Harder to Vote by Mail in the Midterms
+doc_id=12  | rank=1  | score=8.8587 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=12  | rank=1  | final=0.7698 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=22  | rank=1  | score=2.0174 | How the Supreme Court Could Change Voting by Mail
+doc_id=22  | rank=1  | final=0.7698 | How the Supreme Court Could Change Voting by Mail
+doc_id=3   | rank=1  | score=3.6609 | 'We cannot be in peace', say Guthrie family as they renew appeal over missing mother
+doc_id=1   | rank=2  | score=3.0563 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=3   | rank=1  | final=0.7707 | 'We cannot be in peace', say Guthrie family as they renew appeal over missing mother
+doc_id=1   | rank=2  | final=0.1704 | Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss
+doc_id=5   | rank=1  | score=5.0119 | Jorginho's criticism of Chappell Roan over daughter's tears goes viral
+doc_id=5   | rank=1  | final=0.7707 | Jorginho's criticism of Chappell Roan over daughter's tears goes viral
+doc_id=28  | rank=1  | score=2.4833 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=12  | rank=2  | score=2.0903 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=10  | rank=3  | score=2.0521 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=16  | rank=4  | score=1.9022 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=15  | rank=5  | score=1.6861 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=12  | rank=1  | score=5.5975 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=17  | rank=2  | score=2.8733 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=11  | rank=3  | score=1.9667 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=13  | rank=4  | score=1.8881 | 'A direct hit' - BBC visits Israeli town after Iranian strike
+doc_id=0   | rank=5  | score=1.7484 | No assessment Iran could strike London, UK minister says
+doc_id=12  | rank=1  | score=4.7349 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=17  | rank=2  | score=2.8733 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=28  | rank=3  | score=2.4833 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=10  | rank=4  | score=2.0521 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=11  | rank=5  | score=1.9667 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=16  | rank=6  | score=1.9022 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
+doc_id=13  | rank=7  | score=1.8881 | 'A direct hit' - BBC visits Israeli town after Iranian strike
+doc_id=0   | rank=8  | score=1.7484 | No assessment Iran could strike London, UK minister says
+doc_id=15  | rank=9  | score=1.6861 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=17  | rank=1  | score=3.8513 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=11  | rank=2  | score=3.4444 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=17  | rank=1  | final=0.7712 | Israel Orders Military to Intensify Demolitions in Southern Lebanon
+doc_id=11  | rank=2  | final=0.1711 | Iranian missiles injure 180 in towns near Israeli nuclear site
+doc_id=12  | rank=1  | score=8.2949 | Why did US and Israel attack Iran and how long could the war last?
+doc_id=15  | rank=2  | score=2.5093 | Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?
+doc_id=0   | rank=3  | score=2.4121 | No assessment Iran could strike London, UK minister says
+doc_id=28  | rank=4  | score=2.2173 | Trump Has Made a Fundamental Miscalculation about Iran
+doc_id=10  | rank=5  | score=1.9866 | Trump at a crossroads as US weighs tough options in Iran
+doc_id=16  | rank=6  | score=1.7184 | Gas Prices Have Risen More Than 30% in Some States in Weeks Since Iran War Began
