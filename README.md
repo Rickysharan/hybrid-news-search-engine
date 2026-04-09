@@ -1,4 +1,42 @@
-# IR Assignment - Segment A
+# Hybrid News Search Engine
+
+A hybrid information retrieval system combining lexical search (BM25F) with semantic reranking (BERT), enhanced with temporal freshness and source authority signals.
+
+## Key Features
+
+- BM25F field-weighted retrieval (title > body)
+- BERT cross-encoder reranking (semantic understanding)
+- Temporal boosting for recent news
+- Source authority scoring (BBC, NYT)
+- End-to-end pipeline from data ingestion to UI
+- Streamlit-based interactive search interface
+
+## System Architecture
+
+Segment A → Data Collection (RSS) + Preprocessing  
+Segment B → BM25F Retrieval  
+Segment C → Hybrid Ranking (BM25F + BERT + Temporal + Authority)
+
+## Tech Stack
+
+- Python  
+- NLTK  
+- BM25F  
+- Hugging Face Transformers  
+- PyTorch  
+- Streamlit  
+
+## Results
+
+- Strong baseline performance using BM25F  
+- Hybrid model maintains performance and improves semantic understanding  
+- Designed for scalability to larger real-world datasets  
+
+## Notice
+
+This project is publicly visible for portfolio and academic demonstration purposes only.  
+All rights reserved. Unauthorized use is prohibited.
+# Segment A
 
 This repository currently contains `Segment A`, `Segment B`, and `Segment C` from the Assignment 2 blueprint:
 
